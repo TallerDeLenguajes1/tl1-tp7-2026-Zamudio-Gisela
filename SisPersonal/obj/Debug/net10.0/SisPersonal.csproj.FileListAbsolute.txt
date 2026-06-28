@@ -1,0 +1,14 @@
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\bin\Debug\net10.0\SisPersonal.exe
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\bin\Debug\net10.0\SisPersonal.deps.json
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\bin\Debug\net10.0\SisPersonal.runtimeconfig.json
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\bin\Debug\net10.0\SisPersonal.dll
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\bin\Debug\net10.0\SisPersonal.pdb
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\SisPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\SisPersonal.AssemblyInfoInputs.cache
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\SisPersonal.AssemblyInfo.cs
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\SisPersonal.csproj.CoreCompileInputs.cache
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\SisPersonal.dll
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\refint\SisPersonal.dll
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\SisPersonal.pdb
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\SisPersonal.genruntimeconfig.cache
+C:\Users\ZAMU\Desktop\PU\2026\Taller\tl1-tp7-2026-Zamudio-Gisela\SisPersonal\obj\Debug\net10.0\ref\SisPersonal.dll
